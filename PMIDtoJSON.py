@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Reads a list of PMID's (one per line) and outputs full info as JSON.
-# May need to run: pip install requests xmltodict json
+# May need to run: pip install requests xmltodict
 # Usage: echo "12345678" | PMIDtoJSON.py or
 # cat ListOfPMIDs.txt | PMIDtoJSON.py > json.txt
 
